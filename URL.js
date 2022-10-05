@@ -1,1 +1,1 @@
-const URL="https://d5b3-218-32-46-141.jp.ngrok.io\auth-sign-in?appUri=%2F";
+const URL="https://6c1f-218-32-46-141.jp.ngrok.io\auth-sign-in?appUri=%2F";
